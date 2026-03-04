@@ -1,0 +1,1 @@
+This is the second sample text file. It also contains example content for testing purposes.
