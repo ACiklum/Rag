@@ -13,3 +13,7 @@ pymupdf
 # embeddings
 langchain-huggingface
 
+# vector store
+chromadb
+# semantic chunking
+langchain-experimental

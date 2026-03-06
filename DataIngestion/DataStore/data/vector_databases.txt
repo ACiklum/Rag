@@ -1,0 +1,11 @@
+Vector Databases
+
+Vector databases store and query high-dimensional vector data efficiently. Vectors represent text embeddings, images, audio, and other data for similarity search.
+
+Key features: High-dimensional indexing, similarity search (cosine, Euclidean), scalability, metadata filtering, real-time updates.
+
+Popular systems: Pinecone, Weaviate, Milvus, Chroma, Qdrant, Faiss.
+
+Use cases: Semantic search, recommendations, image retrieval, anomaly detection, NLP, computer vision.
+
+Advantages: Semantic understanding, multimodal support, efficient similarity search, AI integration.

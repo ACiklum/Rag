@@ -1,0 +1,9 @@
+Artificial Intelligence Overview
+
+AI simulates human intelligence in machines. Key components include machine learning, natural language processing, computer vision, and robotics.
+
+Types: Narrow AI (task-specific), General AI (human-like), Superintelligent AI.
+
+Applications: Healthcare diagnostics, financial fraud detection, autonomous vehicles, virtual assistants.
+
+Future: Transform industries, create jobs, raise ethical questions about privacy and bias.

@@ -1,0 +1,11 @@
+Machine Learning Fundamentals
+
+ML enables computers to learn from data without explicit programming. Types: Supervised (classification, regression), Unsupervised (clustering, dimensionality reduction), Reinforcement learning.
+
+Essential algorithms: Linear regression, decision trees, random forest, SVM, neural networks, k-means, PCA.
+
+Key concepts: Training/validation/test data, overfitting/underfitting, cross-validation.
+
+Evaluation: Accuracy, precision, recall, F1-score, MSE, confusion matrix.
+
+Applications: Healthcare, finance, e-commerce, transportation, social media, manufacturing.

@@ -1,0 +1,9 @@
+Natural Language Processing
+
+NLP enables computers to understand and generate human language. Core tasks include tokenization, part-of-speech tagging, named entity recognition, sentiment analysis, machine translation, and question answering.
+
+Key technologies: Statistical methods, deep learning, transformer models (BERT, GPT), word embeddings.
+
+Applications: Virtual assistants, content analysis, translation, text-to-speech, chatbots.
+
+Challenges: Ambiguity, context understanding, cultural nuances, multilingual processing.

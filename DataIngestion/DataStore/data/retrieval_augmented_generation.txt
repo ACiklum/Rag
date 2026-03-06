@@ -1,0 +1,13 @@
+Retrieval-Augmented Generation (RAG)
+
+RAG combines language models with external knowledge retrieval for better accuracy and reliability.
+
+Process: Query → Vector representation → Retrieve relevant docs → Augment query → Generate response.
+
+Components: Document store, embedding model, vector database, retriever, generator.
+
+Benefits: Up-to-date info, reduced hallucinations, domain expertise, transparency, cost-effective, scalable.
+
+Applications: Q&A, customer support, research, legal analysis, medical diagnosis, education.
+
+Challenges: Retrieval quality, context limits, latency, privacy, bias.
